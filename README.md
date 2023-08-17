@@ -3,10 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janmeyjay&label=Profile%20views&color=0e75b6&style=flat" alt="janmeyjay" /> </p>
 
+- 📫 How to reach me **Janmeyjay12@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/janmey jay panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janmey jay panda" height="30" width="40" /></a>
-<a href="https://fb.com/janmey jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janmey jay" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/janmey jay panda](https://in.linkedin.com/in/janmey-jay-panda-043322175)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janmey jay panda" height="30" width="40" /></a>
+<a href="[https://fb.com/janmey jay](https://www.facebook.com/janmey.jay.7/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janmey jay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
