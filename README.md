@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janmey Jay Panda</h1>
+<h1 align="center"></h1>
 <h3 align="center">Hi 👋, I'm Janmey Jay, a passionate physics research scholar 👨‍🔬 working at the Tata Institute of Fundamental Research🏢, Hyderabad.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janmeyjay&label=Profile%20views&color=0e75b6&style=flat" alt="janmeyjay" /> </p>
