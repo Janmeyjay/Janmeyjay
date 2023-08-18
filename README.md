@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center"> 👨‍🔬 Passionate Physics Researcher | ⚡ Electronics Enthusiast | 🚀 Software Developer Hobbyist .</h3>
 <h4 align="center">
-  🚀Exploring physics by navigating the intricate dance🕺🏻💃🏻 of light💡 and matter⚛️, delving into the enigmas of the quantum realm ⚛ . Weaving code👨‍💻, nurturing experiments👨🏻‍🔬, and tinkering with electronics⚡ to breathe life into imaginative concepts.🔬
+  🚀Exploring physics by navigating the intricate dance of light💡 and matter⚛️, delving into the enigmas of the quantum realm ⚛, Weaving code👨‍💻, nurturing experiments👨🏻‍🔬, and tinkering with electronics⚡ to breathe life into imaginative concepts.🔬
 </h4>
 
 ## 🌌 Physics Exploration
