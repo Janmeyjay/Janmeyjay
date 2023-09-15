@@ -1,7 +1,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Janmeyjay.janmeyjay" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=F7F7F7&lines=Hi+There!+👋;+Hello!👋;Hola!👋;Hallo!👋;" /></h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00FFFF&lines=Hi+There!+👋;+Hello!👋;Hola!👋;Hallo!👋;" /></h1>
 <h1 align="center"> <span style="color: #F7F7F7;">I'm Janmey Jay Panda</span>
 </h1>
 <h3 align="center"> 👨‍🔬 Passionate Physics Researcher | ⚡ Electronics Enthusiast | 🚀 Software Developer Hobbyist .</h3>
