@@ -4,28 +4,28 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00FFFF&lines=Hi+There!+👋;+Hello!👋;Hola!👋;Hallo!👋;" /></h1>
 <h1 align="center"> <span style="color: #F7F7F7;">I'm Janmey Jay Panda</span>
 </h1>
-<h3 align="center"> 👨‍🔬 Passionate Physics Researcher | ⚡ Electronics Enthusiast | 🚀 Software Developer Hobbyist .</h3>
+<h3 align="center"> 👨‍🔬 Passionate Physics Researcher |  Electronics Enthusiast |  Software Developer Hobbyist .</h3>
 <h4 align="center">
-  🚀Exploring physics by navigating the intricate dance of light💡 and matter⚛️, delving into the enigmas of the quantum realm ⚛, Weaving code👨‍💻, nurturing experiments👨🏻‍🔬, and tinkering with electronics⚡ to breathe life into imaginative concepts.🔬
+  🚀Exploring physics by navigating the intricate dance of light and matter, delving into the enigmas of the quantum realm, Weaving code, nurturing experiments, and tinkering with electronics to breathe life into imaginative concepts.🔬
 </h4>
 
 ## 🌌 Physics Exploration
 
-- 🔭 Engaged in light and matter investigations to unravel the mysteries of the quantum world.
-- 📚 Published [papers](https://scholar.google.co.in/citations?user=lfo0_pIAAAAJ&hl=en) in peer-reviewed journals.
-- 🎓 Pursuing my PhD in Physics at [Tata Institute of Fundamental Research(TIFR)](https://www.tifrh.res.in).
-- ✨ "The universe is full of magical things patiently waiting for our wits to grow sharper." - Eden Phillpotts
+-  Engaged in light and matter investigations to unravel the mysteries of the quantum world.
+-  Published [papers](https://scholar.google.co.in/citations?user=lfo0_pIAAAAJ&hl=en) in peer-reviewed journals.
+-  Pursuing my PhD in Physics at [Tata Institute of Fundamental Research(TIFR)](https://www.tifrh.res.in).
+-  "The universe is full of magical things patiently waiting for our wits to grow sharper." - Eden Phillpotts
 
 ## 💻 Code Crafting
 
-- 🖥️ Coding enthusiast who loves experimenting with new technologies.
-- 🌐 Crafting web applications and playing with frontend and backend frameworks.
-- 📚 Always learning, always coding and ocassionally sharing.
+-  Coding enthusiast who loves experimenting with new technologies.
+-  Crafting web applications and playing with frontend and backend frameworks.
+-  Always learning, always coding and ocassionally sharing.
 
 ## ⚡ Electronics Exploration
 
-- ⚙️ Delving into the fascinating world of electronics and hardware tinkering.
-- 🛠️ Building electronic projects that bridge the digital and physical realms.
+-  Delving into the fascinating world of electronics and hardware tinkering.
+-  Building electronic projects that bridge the digital and physical realms.
 
   <div align="center"> 
   <a href="mailto:janmeyjay12@gmail.com">
